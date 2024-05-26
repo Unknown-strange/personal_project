@@ -33,7 +33,7 @@ def functEquation1(a,b,c):
 
 
 def functEquation2(a,b,c):
-    # calculates for the seconde result using the second formular
+    # calculates for the second result using the second formular
     solution = (-b - math.log(b**2 -3*a*c)) / math.log(2*c)
     print(f'Solution is  for equation2 {solution}')
     
